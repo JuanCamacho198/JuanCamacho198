@@ -1,19 +1,8 @@
 # Holaaa, soy Juan Camacho
 
-Soy estudiante de **Ingeniería de Software** en el TDEA y apasionado por el codigo.  
+Soy estudiante de **Ingeniería de Software** en el TDEA.
 
-Este repositorio contiene el código de mi página personal, desarrollada con **React + Vite** y desplegada en **GitHub Pages**.  
-
-## Tecnologías que uso
-- Frontend: HTML, CSS, JavaScript, React, Vite
-- Backend: C#, Node.js
-- Bases de datos: Supabase
-- Otros: Git, GitHub, Python (análisis de datos)
-
-## Proyectos destacados
-- **Luxury Spa** – Sistema de agendamiento de citas (Base de datos + Frontend).  
-- **Veterinaria** – Gestión de veterinarios con React + Supabase.  
-- **App de superhéroes** – Consumo de API con paginación local.  
+Este repositorio contiene el código de mi portafolio personal, desarrollada con **React + Vite** y desplegada en **GitHub Pages**.  
 
 ## Contacto
 - GitHub: [github.com/JuanCamacho](https://github.com/JuanCamacho)  
