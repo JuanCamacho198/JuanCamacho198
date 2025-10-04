@@ -5,9 +5,7 @@ Soy estudiante de **Ingeniería de Software** en el TDEA.
 Este repositorio contiene el código de mi portafolio personal, desarrollada con **React + Vite** y desplegada en **GitHub Pages**.  
 
 ## Contacto
-- GitHub: [github.com/JuanCamacho](https://github.com/JuanCamacho)  
-- LinkedIn: *(aquí pones tu link)*  
-- Correo: *(tu correo)*  
+- Correo: *jdavidcamacho503@gmail.com*  
 
 <!--
 **JuanCamacho198/JuanCamacho198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
