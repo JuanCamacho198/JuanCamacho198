@@ -12,7 +12,7 @@
 
 <!-- Breve descripción -->
 <p>
-  <strong>Estudiante de Ingeniería de Software</strong> en el TDEA<br/>
+  <strong>Estudiante de 8 semestre en Ingeniería de Software</strong> en el TDEA<br/>
   Apasionado por crear experiencias web modernas y escalables
 </p>
 
