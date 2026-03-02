@@ -47,10 +47,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Otros Lenguajes**
+**Lenguajes:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -59,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanCamacho198&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamacho198&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanCamacho198&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamacho198&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="260"/>
 </div>
 
 <div align="center">
@@ -77,12 +77,6 @@
 </div>
 
 ---
-
-## 🐍 Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JuanCamacho198/JuanCamacho198/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
