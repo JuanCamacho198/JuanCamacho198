@@ -59,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanCamacho198&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="340"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamacho198&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="260"/>
+  <img src="https://img.shields.io/github/followers/JuanCamacho198?label=Followers&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/languages/top/JuanCamacho198/JuanCamacho198?style=for-the-badge" alt="Top Language" />
 </div>
 
 <div align="center">
