@@ -58,10 +58,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/JuanCamacho198?label=Followers&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/languages/top/JuanCamacho198/JuanCamacho198?style=for-the-badge" alt="Top Language" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanCamacho198&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
