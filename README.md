@@ -73,7 +73,6 @@
 
 <div align="center">
 
-[![Luxury Spa](https://github-readme-stats.vercel.app/api/pin/?username=JuanCamacho198&repo=Pagina_Web_Luxury_Spa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)](https://github.com/JuanCamacho198/Pagina_Web_Luxury_Spa)
 
 </div>
 
