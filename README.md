@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%C2%A1Hola!+Soy+Juan+Camacho+%F0%9F%91%8B;Desarrollador+Full+Stack+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%C2%A1Hola!+Soy+Juan+Camacho+%F0%9F%91%8B;Desarrollador+" alt="Typing SVG" />
 
 <!-- Banner de Open to Work -->
 <a href="https://www.linkedin.com/in/juan-david-camacho-molina-b165b0295/">
