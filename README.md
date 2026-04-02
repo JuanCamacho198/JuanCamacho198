@@ -13,7 +13,7 @@
 <!-- Breve descripción -->
 <p>
   <strong>Estudiante de 8avo semestre en Ingeniería de Software</strong> en el TDEA<br/>
-  Apasionado por crear experiencias web modernas y escalables
+  Apasionado por desarrollar software con tecnologias modernas y escalables
 </p>
 
 <!-- Links de contacto -->
