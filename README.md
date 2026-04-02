@@ -69,8 +69,15 @@
 
 <div align="center">
 
+| Proyecto | Descripción | Tecnologías |
+|:---|:---|:---|
+| 🎬 **[Extension MPV + Anki](https://github.com/JuanCamacho198/Extension-MPV-reproductor-de-video-y-ANKI)** | Captura subtítulos de videos, tradúcelos y expórtalos a Anki como tarjetas de estudio. Ideal para aprender idiomas viendo películas. <br>  | `Python` `Lua` |
+| 🏥 **[SafeReturn](https://github.com/JuanCamacho198/SafeReturn)** | App de IA clínica con RAG para predecir reingresos hospitalarios. Procesamiento 100% local. <br> | `Tauri` `Svelte` `Python` `RAG` |
+| 🗣️ **[SPEAKO](https://github.com/JuanCamacho198/SPEAKO)** | Widget de speech-to-text always-on-top para Windows. Transcripción en tiempo real sin API keys. <br>  | `Tauri` `React` `TypeScript` |
+| ⚡ **[Refrielectricos G-E](https://github.com/JuanCamacho198/RefrielectricosG-E)** | E-commerce profesional para venta de repuestos de refrigeración y electricidad. <br>  | `Next Js` `NestJS` `PostgreSQL` |
 
 </div>
+
 
 ---
 
