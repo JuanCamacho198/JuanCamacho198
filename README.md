@@ -78,7 +78,7 @@
 
 <div align="center">
 
-### 💬 ¡Conectemos!
+### 💬 Contacto
 
 <p>
   Estoy abierto a oportunidades laborales y colaboraciones en proyectos interesantes.<br/>
