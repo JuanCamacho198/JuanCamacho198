@@ -1,12 +1,9 @@
 <div align="center">
 
 <!-- Nombre -->
-<h1>👋 Juan Camacho</h1>
+<h1>>> Juan Camacho</h1>
 
-<!-- Buscando practicas -->
-<p>
-  <strong>🚀 Buscando prácticas en Análisis de Datos & Desarrollo Web</strong>
-</p>
+
 
 <!-- Banner de Open to Work -->
 <a href="https://www.linkedin.com/in/juan-david-camacho-molina-b165b0295/">
@@ -18,7 +15,7 @@
 <!-- Breve descripción -->
 <p>
   <strong>Estudiante de Ingeniería de Software</strong> en el TDEA<br/>
-  Enfocado en <strong>Análisis de Datos</strong> y <strong>Desarrollo Web</strong> — convierto datos en decisiones y soluciones en productos
+  Enfocado en <strong>Análisis de Datos</strong> y <strong>Desarrollo Web.</strong> 
 </p>
 
 <!-- Links de contacto -->
@@ -57,39 +54,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## Proyectos
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JuanCamacho198&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
-</div>
-
----
-
-## 🚀 Proyectos Destacados
-
-### 📖 NEXTPAGE — *En desarrollo*
-
-Aplicación de lectura para **Android y desktop** — tu biblioteca digital, donde la lleves.
-
-🔗 [Ver repositorio](https://github.com/JuanCamacho198/NEXTPAGE)
-
-### 🛒 Refrielectricos G&E
-
-Plataforma de comercio electrónico profesional para Refrielectricos G&E S.A.S — venta de repuestos y equipos de refrigeración y electricidad.
-
-🔗 [Ver repositorio](https://github.com/JuanCamacho198/RefrielectricosG-E) &nbsp;·&nbsp; [🌐 Ver sitio](https://refrielectricos-g-e.vercel.app/)
-
-### 💆 L-Spa
-
-Plataforma de gestión de servicios para L-Spa — monorepo moderno con SvelteKit y Hono.
-
-🔗 [Ver repositorio](https://github.com/JuanCamacho198/Pagina-Web-L-Spa) &nbsp;·&nbsp; [🌐 Ver sitio](https://l-spa.vercel.app/)
-
-### 🎙️ SPEAKO
-
-Widget de voz-a-texto siempre visible para Windows — construido con Tauri, React y TypeScript. Transcripción en tiempo real sin API keys ni servicios en la nube.
-
-🔗 [Ver repositorio](https://github.com/JuanCamacho198/SPEAKO)
+| Proyecto | Descripción | Enlaces |
+|---|---|---|
+| 📖 **NEXTPAGE** *(en desarrollo)* | Aplicación de lectura para **Android y desktop** | [Ver repositorio](https://github.com/JuanCamacho198/NEXTPAGE) |
+| 🛒 **Refrielectricos G&E** | Comercio electrónico profesional para Refrielectricos G&E S.A.S — repuestos y equipos de refrigeración y electricidad | [Ver repositorio](https://github.com/JuanCamacho198/RefrielectricosG-E) · [🌐 Ver sitio](https://refrielectricos-g-e.vercel.app/) |
+| 💆 **L-Spa** | Plataforma de gestión de servicios — monorepo moderno con SvelteKit y Hono | [Ver repositorio](https://github.com/JuanCamacho198/Pagina-Web-L-Spa) · [🌐 Ver sitio](https://l-spa.vercel.app/) |
+| 🎙️ **SPEAKO** | Widget de voz-a-texto para Windows — Tauri, React y TypeScript. Transcripción en tiempo real sin API keys | [Ver repositorio](https://github.com/JuanCamacho198/SPEAKO) |
 
 ---
 
