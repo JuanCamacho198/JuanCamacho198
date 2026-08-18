@@ -17,17 +17,6 @@
 <br>
 
 
-
-<!-- Links de contacto -->
-<p>
-  <a href="mailto:jdavidcamacho503@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jdavidcamacho503@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/juan-david-camacho-molina-b165b0295/">
-    <img src="https://img.shields.io/badge/LinkedIn-Juan_Camacho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 </div>
 
 ---
