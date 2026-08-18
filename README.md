@@ -2,7 +2,10 @@
 
 <!-- Name -->
 <h1>>> Juan Camacho</h1>
-
+<p>
+  <strong>Software Engineering student</strong> at TDEA<br/>
+  Focused on <strong>Data Analysis</strong> and <strong>Web Development</strong>
+</p>
 
 
 <!-- Open to Work banner -->
@@ -10,27 +13,9 @@
   <img src="https://img.shields.io/badge/%F0%9F%92%BC_OPEN_TO_WORK-Seeking_Internships-success?style=for-the-badge&labelColor=2d3748" alt="Open to Work"/>
 </a>
 
-<br/><br/>
 
-<!-- Short description -->
-<p>
-  <strong>🚀 Seeking internships in Data Analysis & Web Development</strong>
-</p>
 
-<p>
-  <strong>Software Engineering student</strong> at TDEA<br/>
-  Focused on <strong>Data Analysis</strong> and <strong>Web Development</strong>
-</p>
 
-<!-- Contact links -->
-<p>
-  <a href="mailto:jdavidcamacho503@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jdavidcamacho503@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/juan-david-camacho-molina-b165b0295/">
-    <img src="https://img.shields.io/badge/LinkedIn-Juan_Camacho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 </div>
 
