@@ -2,7 +2,11 @@
 
 <!-- Nombre -->
 <h1>>> Juan Camacho</h1>
-
+<!-- Breve descripción -->
+<p>
+  <strong>Estudiante de Ingeniería de Software</strong> en el TDEA<br/>
+  Enfocado en <strong>Análisis de Datos</strong> y <strong>Desarrollo Web.</strong> 
+</p>
 
 
 <!-- Banner de Open to Work -->
@@ -10,13 +14,9 @@
   <img src="https://img.shields.io/badge/%F0%9F%92%BC_OPEN_TO_WORK-Buscando_Pr%C3%A1cticas-success?style=for-the-badge&labelColor=2d3748" alt="Open to Work"/>
 </a>
 
-<br/><br/>
+<br>
 
-<!-- Breve descripción -->
-<p>
-  <strong>Estudiante de Ingeniería de Software</strong> en el TDEA<br/>
-  Enfocado en <strong>Análisis de Datos</strong> y <strong>Desarrollo Web.</strong> 
-</p>
+
 
 <!-- Links de contacto -->
 <p>
