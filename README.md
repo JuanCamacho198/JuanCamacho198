@@ -1,11 +1,16 @@
 <div align="center">
 
-<!-- Header animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%C2%A1Hola!+Soy+Juan+Camacho+%F0%9F%91%8B;Desarrollador+Full+Stack+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Nombre -->
+<h1>👋 Juan Camacho</h1>
+
+<!-- Buscando practicas -->
+<p>
+  <strong>🚀 Buscando prácticas en Análisis de Datos & Desarrollo Web</strong>
+</p>
 
 <!-- Banner de Open to Work -->
 <a href="https://www.linkedin.com/in/juan-david-camacho-molina-b165b0295/">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_OPEN_TO_WORK-Buscando_Oportunidades-success?style=for-the-badge&labelColor=2d3748" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_OPEN_TO_WORK-Buscando_Pr%C3%A1cticas-success?style=for-the-badge&labelColor=2d3748" alt="Open to Work"/>
 </a>
 
 <br/><br/>
@@ -13,7 +18,7 @@
 <!-- Breve descripción -->
 <p>
   <strong>Estudiante de Ingeniería de Software</strong> en el TDEA<br/>
-  Apasionado por crear experiencias web modernas y escalables
+  Enfocado en <strong>Análisis de Datos</strong> y <strong>Desarrollo Web</strong> — convierto datos en decisiones y soluciones en productos
 </p>
 
 <!-- Links de contacto -->
@@ -30,56 +35,61 @@
 
 ---
 
-## Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
-### Python & Data Science
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-**Otros Lenguajes**
+### 📊 Análisis de Datos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🌐 Desarrollo Web
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 ---
 
-## GitHub Stats
-
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanCamacho198&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JuanCamacho198&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
+### 📖 NEXTPAGE — *En desarrollo*
 
-[![Luxury Spa](https://github-readme-stats.vercel.app/api/pin/?username=JuanCamacho198&repo=Pagina_Web_Luxury_Spa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)](https://github.com/JuanCamacho198/Pagina_Web_Luxury_Spa)
+Aplicación de lectura para **Android y desktop** — tu biblioteca digital, donde la lleves.
 
-</div>
+🔗 [Ver repositorio](https://github.com/JuanCamacho198/NEXTPAGE)
 
----
+### 🛒 Refrielectricos G&E
 
-## 🐍 Contribuciones
+Plataforma de comercio electrónico profesional para Refrielectricos G&E S.A.S — venta de repuestos y equipos de refrigeración y electricidad.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JuanCamacho198/JuanCamacho198/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+🔗 [Ver repositorio](https://github.com/JuanCamacho198/RefrielectricosG-E) &nbsp;·&nbsp; [🌐 Ver sitio](https://refrielectricos-g-e.vercel.app/)
+
+### 💆 L-Spa
+
+Plataforma de gestión de servicios para L-Spa — monorepo moderno con SvelteKit y Hono.
+
+🔗 [Ver repositorio](https://github.com/JuanCamacho198/Pagina-Web-L-Spa) &nbsp;·&nbsp; [🌐 Ver sitio](https://l-spa.vercel.app/)
+
+### 🎙️ SPEAKO
+
+Widget de voz-a-texto siempre visible para Windows — construido con Tauri, React y TypeScript. Transcripción en tiempo real sin API keys ni servicios en la nube.
+
+🔗 [Ver repositorio](https://github.com/JuanCamacho198/SPEAKO)
 
 ---
 
@@ -99,6 +109,4 @@
   <img src="https://img.shields.io/badge/Contáctame_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=JuanCamacho198&color=6366f1&style=flat-square&label=Profile+Views)
+</div>
