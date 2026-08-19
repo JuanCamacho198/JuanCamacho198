@@ -49,7 +49,7 @@
 |---|---|---|
 | 📖 **NEXTPAGE** *(in development)* | Reading app for **Android & desktop** | [Repository](https://github.com/JuanCamacho198/NEXTPAGE) |
 | 🛒 **Refrielectricos G&E** | Professional e-commerce platform for Refrielectricos G&E S.A.S — refrigeration and electrical parts & equipment | [Repository](https://github.com/JuanCamacho198/RefrielectricosG-E) · [🌐 Live site](https://refrielectricos-g-e.vercel.app/) |
-| 💆 **L-Spa** | Service management platform — modern monorepo with SvelteKit and Hono | [Repository](https://github.com/JuanCamacho198/Pagina-Web-L-Spa) · [🌐 Live site](https://l-spa.vercel.app/) |
+| 💆 **L-Spa** | Service management platform — modern monorepo with SvelteKit and NestJS | [Repository](https://github.com/JuanCamacho198/Pagina-Web-L-Spa) · [🌐 Live site](https://l-spa.vercel.app/) |
 | 🎙️ **SPEAKO** | Always-on-top speech-to-text widget for Windows — Tauri, React & TypeScript. Real-time transcription with no API keys | [Repository](https://github.com/JuanCamacho198/SPEAKO) |
 
 ---
